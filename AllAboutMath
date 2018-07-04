@@ -1,0 +1,67 @@
+
+<html>
+	<link href="https://fonts.googleapis.com/css?family=Crete+Round" rel="stylesheet">
+	<link rel="icon" href="Picture for Mathies.png"size="250x250" type="image/png">
+	<head>
+		<title>
+			Mathies.html
+		</title>
+	</head>
+	<body>
+		<style>
+			body {
+				background-color: #0b0c10;
+				color: #45a29e;
+				font-size: 400%;
+				font-family: 'Crete Round';
+				text-align: center;
+				padding: 20px;
+			}
+			p1 {
+				font-size: 35%;
+			}
+			ol {
+				font-size: 35%;
+			}
+			a:hover {
+				color: #c5c6c7;
+			}
+			a {
+				color: #66fcf1;
+			}
+		</style>
+	<!--Hello. I, Brian made this website. I'm 10 years old.-->
+	<!--I made this website for anyone who wants to learn Arethmatic, Algebra, Trigenometry, and Calculus.-->
+	<!--Despite these videos are embeded on this website, I did not make the viddeos.-->
+	<!--I got the color schemes from blog.visme.co/website-color-schemes/-->
+		<p><b>
+			Mathies.com
+		</p><b>
+		<p1>
+			Welcome to Mathies.com
+		</p1>
+		<ol>
+			<li>
+				<a href='Addition Mathies.html'>Addition</a>
+			</li>
+			<li>
+				<a href='Subtraction Mathies.html'>Subtraction</a>
+			</li>
+			<li>
+				<a href='Multiplication Mathies.html'>Multiplication</a>
+			</li>
+			<li>
+				<a href='Division Mathies.html'>Division</a>
+			</li>
+			<li>
+				<a href='Fraction Parts Mathies.html'>Fraction Parts</a>
+			</li>
+			<li>
+				<a href='Sections and Fractions Mathies.html'>Sections and Fractions</a>
+			</li>
+		</ol>
+		<p1>
+			<a href="mailto:higginslb@yahoo.com">Contact Me</a>
+		</p1>
+	</body>
+</html>
