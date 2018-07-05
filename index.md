@@ -26,8 +26,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 **PUSH TO EXISTING REPOSITORY**
-git remote add origin https://github.com/pixelgp2/TXT
-git push -u origin master
+
+"git remote add origin https://github.com/pixelgp2/TXT"
+
+"git push -u origin master"
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
